@@ -1,0 +1,9 @@
+/* Add application styles & imports to this file! */
+body {
+  background: #c0caff;
+  margin: 0;
+}
+.start-button {
+  height: 80px;
+  width: 80px;
+}
